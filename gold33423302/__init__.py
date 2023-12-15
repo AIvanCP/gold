@@ -1,0 +1,1 @@
+from gold33423302.gyat import goldenratio
